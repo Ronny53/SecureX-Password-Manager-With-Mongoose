@@ -6,8 +6,8 @@ const Navbar = () => {
             <div className=' my-container flex justify-between'>
                 <div className='text-2xl font-bold'>
                     <span className='text-green-600'>&lt;</span>
-                    Pass
-                    <span className='text-green-600'>OP/&gt;</span>
+                    Secure
+                    <span className='text-green-600'>X/&gt;</span>
                 </div>
                 <button className='bg-green-700 rounded-full'>
                     <a target='_blank' href="https://github.com/Ronny53">

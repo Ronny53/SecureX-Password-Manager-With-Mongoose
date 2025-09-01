@@ -158,8 +158,8 @@ const Manager = () => {
             <div className='p-2 md:p-0 md:my-container text-black py-10'>
                 <div className='text-4xl font-bold text-center mt-5'>
                     <span className='text-green-600'>&lt;</span>
-                    Pass
-                    <span className='text-green-600'>OP/&gt;</span>
+                    Secure
+                    <span className='text-green-600'>X/&gt;</span>
                 </div>
                 <p className='text-center text-green-800 text-lg'>Your own Password Manager</p>
                 <div className='flex flex-col gap-8 md:px-20 py-5 items-center'>
